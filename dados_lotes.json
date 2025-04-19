@@ -1,0 +1,4085 @@
+[
+  {
+    "loleNrSq": 32,
+    "tipo": "ARTIGO DE TOUCADOR",
+    "valorMinimo": 100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_32_465959_bd540859a8359bce08a2b7fac26bb662.jpg",
+        "w": 1444,
+        "h": 3209
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_32_465960_b697b48e7e5a00ad367839111ed11139.jpg",
+        "w": 1238,
+        "h": 2751
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_32_465961_41b8dab797b9b0fb585109bf18f3f663.jpg",
+        "w": 1074,
+        "h": 2387
+      }
+    ]
+  },
+  {
+    "loleNrSq": 46,
+    "tipo": "ELETRODOMÉSTICO",
+    "valorMinimo": 100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_46_466055_46880d25041113753c84bc7c12661970.jpg",
+        "w": 986,
+        "h": 2192
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_46_466056_d219a8deb0613e815537840160f2d249.jpg",
+        "w": 869,
+        "h": 1931
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_46_466057_f2b2d56e96eff51846944f38b75cd8c5.jpg",
+        "w": 903,
+        "h": 2008
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_46_466058_c2261a1ba6e3bf14348d8987b2e1c6a4.jpg",
+        "w": 702,
+        "h": 1562
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_46_466059_e3d06e6456fb0c4f914ff73a6e195376.jpg",
+        "w": 1235,
+        "h": 2746
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_46_466060_12aa2e18107c59b826b68a510bddb7f2.jpg",
+        "w": 758,
+        "h": 1686
+      }
+    ]
+  },
+  {
+    "loleNrSq": 92,
+    "tipo": "OUTROS",
+    "valorMinimo": 100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_92_466337_708f0d0de0e2935c1b1c913a44bb3dbe.jpg",
+        "w": 1101,
+        "h": 2447
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_92_466338_1f283fc872624cf1046852be3d804015.jpg",
+        "w": 949,
+        "h": 2109
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_92_466339_1dbc5ae641a8b1ceafd792c51b2b4a6d.jpg",
+        "w": 883,
+        "h": 1963
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_92_466340_4c47547bea71d2cdf939655886b67b1e.jpg",
+        "w": 1376,
+        "h": 3058
+      }
+    ]
+  },
+  {
+    "loleNrSq": 380,
+    "tipo": "ARTIGO ESPORTIVO",
+    "valorMinimo": 100,
+    "imagens": []
+  },
+  {
+    "loleNrSq": 353,
+    "tipo": "DISCO DE VINIL/CD/DVD",
+    "valorMinimo": 100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_353_464955_ab5b0f98d8c03218ece2b857549616d6.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 108,
+    "tipo": "TÊXTIL",
+    "valorMinimo": 150,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_108_466447_d2cbc4651d9c0de06b9bd62f2e039bed.jpg",
+        "w": 1353,
+        "h": 3008
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_108_466448_b44f1c2396d7fb248b881ceb21fe0c41.jpg",
+        "w": 1165,
+        "h": 2589
+      }
+    ]
+  },
+  {
+    "loleNrSq": 9,
+    "tipo": "OBJETO DE ARTE/COLEÇÃO/ANTIGUIDADE",
+    "valorMinimo": 200,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_9_465706_4d4cd9947e34ce0ca083527f6f1e8672.jpg",
+        "w": 1370,
+        "h": 3045
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_9_465707_efc45e628add6ce3039cc65ea25d3fa4.jpg",
+        "w": 1023,
+        "h": 2275
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_9_465708_aece8aead684491a39a6dd079a793220.jpg",
+        "w": 1084,
+        "h": 2410
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_9_465709_f9c979f74b9d591264a0613a53d3bde3.jpg",
+        "w": 956,
+        "h": 2125
+      }
+    ]
+  },
+  {
+    "loleNrSq": 41,
+    "tipo": "OUTROS",
+    "valorMinimo": 200,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_41_466016_bf10d76fec41c38c7077c5de124201c3.jpg",
+        "w": 1336,
+        "h": 2969
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_41_466017_b5307fc14d26c0bdeb9a13ed3b410a13.jpg",
+        "w": 1210,
+        "h": 2691
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_41_466018_01f6c10c508e36f198c3a6fd459c2372.jpg",
+        "w": 1507,
+        "h": 3350
+      }
+    ]
+  },
+  {
+    "loleNrSq": 381,
+    "tipo": "JOIA/PEDRA PRECIOSA",
+    "valorMinimo": 200,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_381_465464_591119e4ba99d814c421f7522c6987b7.jpg",
+        "w": 1153,
+        "h": 938
+      }
+    ]
+  },
+  {
+    "loleNrSq": 382,
+    "tipo": "INFORMÁTICA",
+    "valorMinimo": 200,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_382_465465_9ba6a893e7f87251a4b0d36941931e4d.jpg",
+        "w": 1066,
+        "h": 695
+      }
+    ]
+  },
+  {
+    "loleNrSq": 383,
+    "tipo": "ELETRÔNICO/ÁUDIO/VÍDEO",
+    "valorMinimo": 200,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_383_465466_314472cccd4263ebaf908c7645f68b92.jpg",
+        "w": 1002,
+        "h": 940
+      }
+    ]
+  },
+  {
+    "loleNrSq": 332,
+    "tipo": "RELÓGIO/PARTE",
+    "valorMinimo": 200,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_332_464686_fc92736352da35af172c13ec56506015.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_332_464687_e3411e467cc7efcb86abe257639d3230.jpg",
+        "w": 1280,
+        "h": 960
+      }
+    ]
+  },
+  {
+    "loleNrSq": 81,
+    "tipo": "OUTROS",
+    "valorMinimo": 250,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_81_466260_14cb2e74af68e245e07bb38ddb101eee.jpg",
+        "w": 1559,
+        "h": 3466
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_81_466261_a2e035d62294fd5391844ae06bc4fb8e.jpg",
+        "w": 1214,
+        "h": 2698
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_81_466262_c96baae4fb44e51a6c2ca571ba0e035c.jpg",
+        "w": 1356,
+        "h": 3014
+      }
+    ]
+  },
+  {
+    "loleNrSq": 29,
+    "tipo": "ÓCULOS/ACESSÓRIO",
+    "valorMinimo": 300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_29_465943_f6f7df8c04a8dce7025fc3db9d99954f.jpg",
+        "w": 1083,
+        "h": 2408
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_29_465944_737c8b589661045e5a64f4154185b8e8.jpg",
+        "w": 924,
+        "h": 2055
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_29_465945_e46449a626255f38695cb3a9295f5325.jpg",
+        "w": 1451,
+        "h": 3225
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_29_465946_82c02ffe1b914a1e99253a494b174ee9.jpg",
+        "w": 1193,
+        "h": 2651
+      }
+    ]
+  },
+  {
+    "loleNrSq": 35,
+    "tipo": "INFORMÁTICA",
+    "valorMinimo": 300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_35_465975_b58e3f87f02247a8bf8619b79641a8b8.jpg",
+        "w": 1541,
+        "h": 3426
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_35_465976_63ba97e0443a550a85dcaf9cf05ba27f.jpg",
+        "w": 1334,
+        "h": 2966
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_35_465977_688f0d32a2d6ddd2a2429f3649c9d0df.jpg",
+        "w": 981,
+        "h": 2180
+      }
+    ]
+  },
+  {
+    "loleNrSq": 88,
+    "tipo": "OBJETO DE ARTE/COLEÇÃO/ANTIGUIDADE",
+    "valorMinimo": 300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_88_466310_54455364e4e122dd0ffced9092fb0951.jpg",
+        "w": 1269,
+        "h": 2820
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_88_466311_a67c10c48d5c99eb2038ab6c8b2e0e64.jpg",
+        "w": 1158,
+        "h": 2574
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_88_466312_0c770a26fbf3639afd55d9bdca5c82f1.jpg",
+        "w": 1543,
+        "h": 3428
+      }
+    ]
+  },
+  {
+    "loleNrSq": 90,
+    "tipo": "DISCO DE VINIL/CD/DVD",
+    "valorMinimo": 300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_90_466319_f162680abc81d228305508c6388c49ae.jpg",
+        "w": 1402,
+        "h": 3116
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_90_466320_dff15dd56054b05c6bf0d930c65ddd5c.jpg",
+        "w": 906,
+        "h": 2014
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_90_466321_9a47f323a54e35cf3e8b4335026b48c9.jpg",
+        "w": 1089,
+        "h": 2421
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_90_466322_025b2d9b3dddde582b0b715b07989927.jpg",
+        "w": 862,
+        "h": 1917
+      }
+    ]
+  },
+  {
+    "loleNrSq": 7,
+    "tipo": "OBJETO DE ARTE/COLEÇÃO/ANTIGUIDADE",
+    "valorMinimo": 400,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_7_465695_870b5243b1dca4681056fa454499a566.jpg",
+        "w": 1322,
+        "h": 2937
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_7_465696_358ab732f5f49b6649f4d7ea3580cdf7.jpg",
+        "w": 743,
+        "h": 1651
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_7_465697_db8e9d836f009e6a0fad69957fd93c9f.jpg",
+        "w": 1104,
+        "h": 2454
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_7_465698_40fd1a5059dbfb184016ce2f1c586097.jpg",
+        "w": 827,
+        "h": 1838
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_7_465699_de97e39d78ab4f63b9837befb8c7c938.jpg",
+        "w": 958,
+        "h": 2129
+      }
+    ]
+  },
+  {
+    "loleNrSq": 26,
+    "tipo": "OUTROS",
+    "valorMinimo": 400,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_26_465917_6e4de40618734559449eef70437ed0be.jpg",
+        "w": 1082,
+        "h": 2405
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_26_465918_afb29393460fbe95cf1ed5c55b4836c5.jpg",
+        "w": 890,
+        "h": 1978
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_26_465919_cbfe3c229e91f5c56b10a3924c36618b.jpg",
+        "w": 939,
+        "h": 2088
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_26_465920_7befd5bd5cb705ff2f1696052238f479.jpg",
+        "w": 1265,
+        "h": 2811
+      }
+    ]
+  },
+  {
+    "loleNrSq": 66,
+    "tipo": "VIDEOGAME",
+    "valorMinimo": 400,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_66_466164_f54726b4a6f45a24f4a3a90b1898a463.jpg",
+        "w": 1467,
+        "h": 3260
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_66_466165_147f0818e349d83208a9a1964cef093c.jpg",
+        "w": 936,
+        "h": 2080
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_66_466166_61fa6acfb532ff61168855a7a38df42d.jpg",
+        "w": 1190,
+        "h": 2645
+      }
+    ]
+  },
+  {
+    "loleNrSq": 84,
+    "tipo": "APARELHO/PEÇA MECÂNICA",
+    "valorMinimo": 400,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_84_466276_c722d0798858fd91994203ac02c8a454.jpg",
+        "w": 741,
+        "h": 1647
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_84_466277_dd9bd7b07a85c2cf79bbc8149d005388.jpg",
+        "w": 889,
+        "h": 1977
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_84_466278_31b457ee81ff307d5a6b8eff571eb01a.jpg",
+        "w": 704,
+        "h": 1565
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_84_466279_63e4a6fa2ccd7d1280d76bea75b12fbf.jpg",
+        "w": 1188,
+        "h": 2641
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_84_466280_c1cc6268569bd7bbf7a05a20ab41a92a.jpg",
+        "w": 656,
+        "h": 1458
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_84_466281_fc9aca3ccdfa58a8d7631e3b72dd0364.jpg",
+        "w": 779,
+        "h": 1732
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_84_466282_919374f30d05a40f4cb8b224a3b11c8e.jpg",
+        "w": 649,
+        "h": 1443
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_84_466283_d1b5a345ee4ee5086852b1b561e3493f.jpg",
+        "w": 1023,
+        "h": 2274
+      }
+    ]
+  },
+  {
+    "loleNrSq": 13,
+    "tipo": "OUTROS",
+    "valorMinimo": 500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_13_465734_3984f1e4d7a68f7c6bb85bb795368dd5.jpg",
+        "w": 1618,
+        "h": 3597
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_13_465735_c15bb26a16fd84620c208ec7af8bfb60.jpg",
+        "w": 1132,
+        "h": 2517
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_13_465736_a9822ea4017a9a8726b098df523aba1b.jpg",
+        "w": 998,
+        "h": 2218
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_13_465737_b859c413db006952f3e926ccea711411.jpg",
+        "w": 1226,
+        "h": 2725
+      }
+    ]
+  },
+  {
+    "loleNrSq": 14,
+    "tipo": "OBJETO DE ARTE/COLEÇÃO/ANTIGUIDADE",
+    "valorMinimo": 500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_14_465738_99cf32871981e7c71e6edecd300c51b6.jpg",
+        "w": 1164,
+        "h": 2586
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_14_465739_0f4767c80024631bafa5bc242013aecc.jpg",
+        "w": 987,
+        "h": 2193
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_14_465740_161996de109d86bb2ad25b7586c33ab6.jpg",
+        "w": 827,
+        "h": 1838
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_14_465741_11d59553c71a20668c820ac525d04beb.jpg",
+        "w": 646,
+        "h": 1436
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_14_465742_f97bbaa3b64a781d15d066e8fb0ded4a.jpg",
+        "w": 928,
+        "h": 2062
+      }
+    ]
+  },
+  {
+    "loleNrSq": 51,
+    "tipo": "DIVERSOS",
+    "valorMinimo": 500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_51_466079_74352253dbaa2f7fd267b121744c1fc1.jpg",
+        "w": 1189,
+        "h": 2642
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_51_466080_76fab00000b536cdfb24f606096c9925.jpg",
+        "w": 1011,
+        "h": 2247
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_51_466081_83ad836580bcb111ac3bc8a191cd12b2.jpg",
+        "w": 921,
+        "h": 2048
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_51_466082_0e00a4fe54cef35915b7d61b5b038e68.jpg",
+        "w": 703,
+        "h": 1564
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_51_466083_aa2354bccd6a23e3d86a333f2827dcaf.jpg",
+        "w": 775,
+        "h": 1722
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_51_466084_fb6b770cfb2eb6f48770c9ca65cf286a.jpg",
+        "w": 621,
+        "h": 1380
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_51_466085_662d5836574e30cdf6b8c0251f8f4da9.jpg",
+        "w": 677,
+        "h": 1505
+      }
+    ]
+  },
+  {
+    "loleNrSq": 75,
+    "tipo": "ELETRÔNICO/ÁUDIO/VÍDEO",
+    "valorMinimo": 500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_75_466207_a2f8338ca52bc37d6d2270ffa405aa75.jpg",
+        "w": 1138,
+        "h": 2530
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_75_466208_0c2c44a7783b6aae10875c9c872186c8.jpg",
+        "w": 969,
+        "h": 2154
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_75_466209_cd0586b29a86c71ba33456b51ed7e19a.jpg",
+        "w": 917,
+        "h": 2038
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_75_466210_c26e0fd4d58b9e0398faacdcd08cb1f0.jpg",
+        "w": 1429,
+        "h": 3177
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_75_466211_4f390df61e15574afa8130048639b961.jpg",
+        "w": 1040,
+        "h": 2311
+      }
+    ]
+  },
+  {
+    "loleNrSq": 95,
+    "tipo": "NOTEBOOK",
+    "valorMinimo": 500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_95_466352_1cb00c057875aa260fd3d0e7855da2b7.jpg",
+        "w": 1147,
+        "h": 2550
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_95_466353_ced16ed83d8616f7bc6fe0fbd858c022.jpg",
+        "w": 1036,
+        "h": 2302
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_95_466354_ee3653f7617c907e00f75260bd420768.jpg",
+        "w": 843,
+        "h": 1875
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_95_466355_2a236add5438c3419050e2bb1e44a5f1.jpg",
+        "w": 1396,
+        "h": 3103
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_95_466356_c820ea9b25e4a7381802ecd0edaea4f5.jpg",
+        "w": 721,
+        "h": 1603
+      }
+    ]
+  },
+  {
+    "loleNrSq": 71,
+    "tipo": "COMPONENTE ELETRÔNICO",
+    "valorMinimo": 600,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_71_466184_57866e5903ca48ee214b3f459f288da0.jpg",
+        "w": 950,
+        "h": 2111
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_71_466185_620100377216d798fd8cff92d87d94a0.jpg",
+        "w": 1080,
+        "h": 2401
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_71_466186_d2b43a3e28b76baff0bb31c43b25d934.jpg",
+        "w": 1500,
+        "h": 3333
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_71_466187_ae64491f745dcac0d2e40418f79f8396.jpg",
+        "w": 713,
+        "h": 1585
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_71_466188_d0e2a23c6b18d7110a92e9e150ea1104.jpg",
+        "w": 837,
+        "h": 1860
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_71_466189_720534322ed3a98fd3a32420a327f26f.jpg",
+        "w": 1171,
+        "h": 2604
+      }
+    ]
+  },
+  {
+    "loleNrSq": 77,
+    "tipo": "ELETRÔNICO/ÁUDIO/VÍDEO",
+    "valorMinimo": 600,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_77_466224_8081643cfbd995215668e993b4465c20.jpg",
+        "w": 873,
+        "h": 1941
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_77_466225_926f2a580efe740a1755cf65d91c400c.jpg",
+        "w": 1199,
+        "h": 2665
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_77_466226_4713a6ea37cb385e8e88913460f90dbb.jpg",
+        "w": 608,
+        "h": 1351
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_77_466227_b5ca8bd93be82faac53507e7f963443d.jpg",
+        "w": 765,
+        "h": 1701
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_77_466228_bbf99dae251ba91c3c8806b816a23974.jpg",
+        "w": 718,
+        "h": 1597
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_77_466229_19bf6791ab90b0b282c729d6eb0f6ebd.jpg",
+        "w": 722,
+        "h": 1605
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_77_466230_f20372fc5b6420be0b989fb2854ab447.jpg",
+        "w": 954,
+        "h": 2120
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_77_466231_22a5bcded1e1c7648ebf10e8e91e4dc0.jpg",
+        "w": 813,
+        "h": 1808
+      }
+    ]
+  },
+  {
+    "loleNrSq": 339,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 600,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_339_464912_988d522e5497c4fa807c032190868502.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 340,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 600,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_340_464913_e9fc645ca01713ecaacfc7d471526d21.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 10,
+    "tipo": "OBJETO DE ARTE/COLEÇÃO/ANTIGUIDADE",
+    "valorMinimo": 650,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_10_466739_73c4844ce647ed4d9d4653a6e8625c64.jpg",
+        "w": 899,
+        "h": 1599
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_10_466740_73c134b1bd4e7b7948f5749bc6df9c30.jpg",
+        "w": 899,
+        "h": 1599
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_10_466741_f8e229152d981de4a4a360db6dd23747.jpg",
+        "w": 899,
+        "h": 1599
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_10_466742_98a9f793045ba49b9efa6d337c795778.jpg",
+        "w": 899,
+        "h": 1599
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_10_466743_f9c6eea2312b45239454e0b0a4bc348f.jpg",
+        "w": 899,
+        "h": 1599
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_10_466744_c89cf959ec6e4119ee94966c6f88c009.jpg",
+        "w": 899,
+        "h": 1599
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_10_466745_573c5423b69632dc3def4ef9d9cd3e0e.jpg",
+        "w": 899,
+        "h": 1599
+      }
+    ]
+  },
+  {
+    "loleNrSq": 47,
+    "tipo": "ELETRODOMÉSTICO",
+    "valorMinimo": 700,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_47_466061_6ece324e1eb1565a0ceac66d46bbd37b.jpg",
+        "w": 1329,
+        "h": 2953
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_47_466062_a6e82810e7e6de4762d66925f4426308.jpg",
+        "w": 1046,
+        "h": 2325
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_47_466063_46bd567a79b058857a86e565eb001b48.jpg",
+        "w": 883,
+        "h": 1962
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_47_466064_9e678aac2d4a67737b5c5caeab1b506c.jpg",
+        "w": 1146,
+        "h": 2548
+      }
+    ]
+  },
+  {
+    "loleNrSq": 341,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 700,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_341_464914_24dbb9b5e17c362391b05110263a1c76.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 45,
+    "tipo": "ELETRODOMÉSTICO",
+    "valorMinimo": 800,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_45_466051_dea212dd77a7b92c165834d8b771854b.jpg",
+        "w": 1471,
+        "h": 3269
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_45_466052_ed4ec2beeecf10b5071d988c269d43f9.jpg",
+        "w": 1228,
+        "h": 2729
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_45_466053_123067b7a48f0df22b1f4d5737669fff.jpg",
+        "w": 1025,
+        "h": 2278
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_45_466054_413e5c2132c5ad9586527128d014ce38.jpg",
+        "w": 951,
+        "h": 2114
+      }
+    ]
+  },
+  {
+    "loleNrSq": 65,
+    "tipo": "VIDEOGAME",
+    "valorMinimo": 800,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_65_466161_028b15597ff76df51be12e0ddb7b9a0b.jpg",
+        "w": 1186,
+        "h": 2636
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_65_466162_a09d4b1dd8a2e6a6cea2a10625dd51a2.jpg",
+        "w": 1571,
+        "h": 3491
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_65_466163_e7e82a9577a134b42409a1982124b6f3.jpg",
+        "w": 1311,
+        "h": 2914
+      }
+    ]
+  },
+  {
+    "loleNrSq": 73,
+    "tipo": "VIDEOGAME",
+    "valorMinimo": 800,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_73_466198_c987024c5ddde4d11973ae973bb9c40a.jpg",
+        "w": 1101,
+        "h": 2447
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_73_466199_4b3227f020b60ed99c445612b6238ecb.jpg",
+        "w": 1683,
+        "h": 3740
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_73_466200_3e0e4a1935c60689946f91f3e4c43730.jpg",
+        "w": 1253,
+        "h": 2784
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_73_466201_fa3ac2c9b290c910c3e62eaa1fcc442f.jpg",
+        "w": 1012,
+        "h": 2251
+      }
+    ]
+  },
+  {
+    "loleNrSq": 101,
+    "tipo": "ELETRODOMÉSTICO",
+    "valorMinimo": 800,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_101_466392_f0f5ec7dfe32b717ee10c5a268bca511.jpg",
+        "w": 1335,
+        "h": 2967
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_101_466393_91ed26efffcbbbd9cab8e70ee4b413fc.jpg",
+        "w": 1119,
+        "h": 2488
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_101_466394_41a43c9739fd7380f5bd91552b22a108.jpg",
+        "w": 933,
+        "h": 2074
+      }
+    ]
+  },
+  {
+    "loleNrSq": 348,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 800,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_348_464923_6880f4c85274cca0d76f6a66517d6493.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 113,
+    "tipo": "VIDEOGAME",
+    "valorMinimo": 900,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_113_466474_00a0c14bc49d4f2b314b4d2470f30803.jpg",
+        "w": 946,
+        "h": 2102
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_113_466475_07cbb14d47f82e425140b03c2fdf58ca.jpg",
+        "w": 644,
+        "h": 1431
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_113_466476_87f5f8e46edd11fcfc31bbc0dc8d4d71.jpg",
+        "w": 848,
+        "h": 1885
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_113_466477_2b8fcb4eda05f092b379ba23870279d7.jpg",
+        "w": 2822,
+        "h": 1270
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_113_466478_483073de27234ae0bb9f511bbd1527fb.jpg",
+        "w": 1064,
+        "h": 2365
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_113_466479_9be69562dc6fca4977072e5de7fee077.jpg",
+        "w": 680,
+        "h": 1511
+      }
+    ]
+  },
+  {
+    "loleNrSq": 291,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 900,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_291_464556_6cd79ea69701b8d092c14f7fdef43c60.jpg",
+        "w": 358,
+        "h": 524
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_291_464557_f60dab298294608bbc783db55b00f636.jpg",
+        "w": 355,
+        "h": 521
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_291_464558_81c921950bd6568d2b4a966b960adbe7.jpg",
+        "w": 352,
+        "h": 519
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_291_464559_977ee2eb1b187e546055fc1dfe0c415f.jpg",
+        "w": 354,
+        "h": 523
+      }
+    ]
+  },
+  {
+    "loleNrSq": 338,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 900,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_338_464911_af1946fcc5a297960552be38603b77a9.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 49,
+    "tipo": "OBJETO DE ARTE/COLEÇÃO/ANTIGUIDADE",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_49_466065_faa0fa83d5e790526884516deefa3010.jpg",
+        "w": 1099,
+        "h": 2443
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_49_466066_48a0dff50d39068bad9ac3a736d56954.jpg",
+        "w": 630,
+        "h": 1401
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_49_466067_93d3a847629842aa4a7227ac43ef7d63.jpg",
+        "w": 678,
+        "h": 1506
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_49_466068_43acdd2c05dd1d711e31a8ef7b161ba1.jpg",
+        "w": 779,
+        "h": 1732
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_49_466069_4ac13f3124aa00faaad0e90b041c3246.jpg",
+        "w": 859,
+        "h": 1910
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_49_466070_ec81cc6505955254d5b3c697f7f98931.jpg",
+        "w": 867,
+        "h": 1928
+      }
+    ]
+  },
+  {
+    "loleNrSq": 63,
+    "tipo": "OBJETO DE ARTE/COLEÇÃO/ANTIGUIDADE",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_63_466152_aa36e56c7b087101bdd10eaffaa58903.jpg",
+        "w": 901,
+        "h": 2004
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_63_466153_8f222d372d16cb2f6c89a46b80ece203.jpg",
+        "w": 805,
+        "h": 1789
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_63_466154_dadd72e0f987d4bab3e53f9ced794475.jpg",
+        "w": 1091,
+        "h": 2424
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_63_466155_08719efbf788d25f2e8d26e53ff429a8.jpg",
+        "w": 1235,
+        "h": 2746
+      }
+    ]
+  },
+  {
+    "loleNrSq": 232,
+    "tipo": "INFORMÁTICA",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_232_459526_01664b64fc23572f73d4bfe2f620f2c6.jpg",
+        "w": 582,
+        "h": 731
+      }
+    ]
+  },
+  {
+    "loleNrSq": 233,
+    "tipo": "INFORMÁTICA",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_233_459527_932de7054aa1d6badf459039260d4f19.jpg",
+        "w": 570,
+        "h": 773
+      }
+    ]
+  },
+  {
+    "loleNrSq": 238,
+    "tipo": "ARTIGO ESPORTIVO",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_238_459532_9f901dc9cd972a6965d54622e4ef0e21.jpg",
+        "w": 760,
+        "h": 778
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_238_459533_182086c6c4f9aceda5576cf18ed88feb.jpg",
+        "w": 1093,
+        "h": 762
+      }
+    ]
+  },
+  {
+    "loleNrSq": 240,
+    "tipo": "INSTRUMENTO MUSICAL",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_240_459535_bad5af228b40962209dbc4c723a9f0bd.jpg",
+        "w": 580,
+        "h": 822
+      }
+    ]
+  },
+  {
+    "loleNrSq": 241,
+    "tipo": "INSTRUMENTO MUSICAL",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_241_459536_92961271b8fd96ac44ca142b3d0b251b.jpg",
+        "w": 1061,
+        "h": 655
+      }
+    ]
+  },
+  {
+    "loleNrSq": 242,
+    "tipo": "ARTIGO ESPORTIVO",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_242_459537_20de7f35d51b1730085bf1b6d36d9727.jpg",
+        "w": 595,
+        "h": 400
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_242_459538_8c0f8bce9d059554276526916f23341a.jpg",
+        "w": 597,
+        "h": 1022
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_242_459539_23bf661c7cad0cdaf3724708895e1b09.jpg",
+        "w": 838,
+        "h": 604
+      }
+    ]
+  },
+  {
+    "loleNrSq": 243,
+    "tipo": "ARTIGO ESPORTIVO",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_243_459540_35b79b44b1b4b2be605676e36578ad9e.jpg",
+        "w": 575,
+        "h": 635
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_243_459541_a6d9b86d4fc834ba98c10fc553af28f5.jpg",
+        "w": 855,
+        "h": 520
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_243_459542_7e381f0ce2fbc880127896994131da68.jpg",
+        "w": 363,
+        "h": 476
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_243_459543_2fca4c4e233db151042150ae19788678.jpg",
+        "w": 386,
+        "h": 457
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_243_459544_23ed4a96cd0d3ccad9433b0a71155d99.jpg",
+        "w": 361,
+        "h": 560
+      }
+    ]
+  },
+  {
+    "loleNrSq": 299,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_299_464593_bde0268257fdb94f608fba3069ea7b6b.jpg",
+        "w": 373,
+        "h": 527
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_299_464594_226799ef416808cc0d20f42223103c67.jpg",
+        "w": 369,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_299_464595_a6ad93b7b783a2659c3bd53733cb24b4.jpg",
+        "w": 370,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_299_464596_73c3a6fe9ca4b215d3ddb8119bc17650.jpg",
+        "w": 370,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_299_464597_f5f7a67948d3503bbd534d74599a5f78.jpg",
+        "w": 793,
+        "h": 377
+      }
+    ]
+  },
+  {
+    "loleNrSq": 330,
+    "tipo": "CAMINHÃO/ÔNIBUS",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_330_464676_1a57dcafed26428757dd45d06303652a.jpg",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_330_464677_a7491d1a113c8d8143ada76b04a88663.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_330_464678_7b003511e6e6243befeca39c59069efd.jpg",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_330_464679_66cb7e7332e754c99102e6991531ed2f.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_330_464680_8af8ecbb7ad9c6f1f98b8c64b17030db.jpg",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_330_464681_f276674955d37628dda6e2752aa9f73b.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_330_464682_6cfff9c7557f0f36aa73ee884717d2a6.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 331,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_331_464683_b7e64c3dd26d4ae811f64c2f240587b2.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_331_464684_d7e5885034850f8e0edf407059b179a6.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_331_464685_d74e784552d936875ed312aac731acdb.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 349,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_349_464924_4b67671d68660e4d1ac2ec332f833ef7.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 350,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_350_464925_5215230b32a248ef85b7624b4be94f0f.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 89,
+    "tipo": "INFORMÁTICA",
+    "valorMinimo": 1100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_89_466313_33482cca6e4a12c9ef4187c67854202c.jpg",
+        "w": 1085,
+        "h": 2411
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_89_466314_2ebfea84114256d6f59a24822e646ee8.jpg",
+        "w": 715,
+        "h": 1589
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_89_466315_d51b99c475bdeb3f2dbd670349275c09.jpg",
+        "w": 939,
+        "h": 2088
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_89_466316_00f4b70ad3a5bd3d004c3c240dcec0ca.jpg",
+        "w": 699,
+        "h": 1553
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_89_466317_2c288d3a6ff20621483b1d8b178bcf9d.jpg",
+        "w": 770,
+        "h": 1711
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_89_466318_0176d4bdd94879c3ff3ceedba90ea5f6.jpg",
+        "w": 745,
+        "h": 1656
+      }
+    ]
+  },
+  {
+    "loleNrSq": 290,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 1100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_290_464552_034de15adedbf6a25a12781f3e87ab6a.jpg",
+        "w": 353,
+        "h": 523
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_290_464553_3a583a7b3cd70fac76c0f2f2183c88e7.jpg",
+        "w": 366,
+        "h": 517
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_290_464554_78be0ade362f7ed526bac3ad2ec673b2.jpg",
+        "w": 361,
+        "h": 527
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_290_464555_772d8cbcc96541a59e0d902ab8c5d66a.jpg",
+        "w": 361,
+        "h": 520
+      }
+    ]
+  },
+  {
+    "loleNrSq": 302,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 1100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_302_464609_4a26ed278e71634fdcf0ae7d928b8f69.jpg",
+        "w": 376,
+        "h": 527
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_302_464610_2c1aa8fa60d060b70c0b23684089635a.jpg",
+        "w": 372,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_302_464611_ea8779f21129853f0829f2c1919f39be.jpg",
+        "w": 373,
+        "h": 525
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_302_464612_47884b3130abb51ee8abfa5bd1752114.jpg",
+        "w": 374,
+        "h": 515
+      }
+    ]
+  },
+  {
+    "loleNrSq": 376,
+    "tipo": "INFORMÁTICA",
+    "valorMinimo": 1100,
+    "imagens": []
+  },
+  {
+    "loleNrSq": 367,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_367_464665_6b338266ffcb6d5ac245d3b80a6b6d0d.jpg",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_367_464666_ef62436d89d220934c7f3b546e576fef.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_367_464667_7b4671093433505cd03e09b6c6399c2c.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 365,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1200,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_365_464659_04cd72ea2e01501f595c6e7b1df78298.jpg",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_365_464660_69f69634e8b8f86c06962402e8619494.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_365_464661_193d412e42392768db161ebe103693a0.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 366,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1200,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_366_464662_70c78d7a6a40bc77ff9ef96b472dbca7.jpg",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_366_464663_5ddd229756f8a045db7df92e30a3b7be.jpg",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_366_464664_edd6f69be35f9f0f364b102ed99137a6.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 369,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1200,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_369_464671_fdad70848b85ba0bc4cc0fa9986f649d.jpg",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_369_464672_0481a6351fe4b1fa9a74d94f54071beb.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_369_464673_1241b016501d4f9bc589d914a1eea896.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_369_464674_d86a711956b0f6e8e2b2ed0dcad6e091.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_369_464675_3536fb9e1a19a0ba725c395684add0e8.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 239,
+    "tipo": "INSTRUMENTO MUSICAL",
+    "valorMinimo": 1500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_239_459534_d53ca9b0c37f5734f736c40044eb09da.jpg",
+        "w": 849,
+        "h": 579
+      }
+    ]
+  },
+  {
+    "loleNrSq": 246,
+    "tipo": "ELETRÔNICO/ÁUDIO/VÍDEO",
+    "valorMinimo": 1500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_246_466757_fdb8183dc72d10d54998cc02f6982a27.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 301,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 1500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_301_464603_c092aa7e8fc1279219df6507b73ea3eb.jpg",
+        "w": 474,
+        "h": 289
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_301_464604_355d9ded21777a8680450995bd86dac5.jpg",
+        "w": 373,
+        "h": 525
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_301_464605_527a6abde9e9493a71b425718b85d2a5.jpg",
+        "w": 375,
+        "h": 520
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_301_464606_9add2169646051e359e2cdb5900206c1.jpg",
+        "w": 375,
+        "h": 520
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_301_464607_ef3ae7420f5b5c8585015a115d81be1c.jpg",
+        "w": 373,
+        "h": 528
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_301_464608_133f75bed19c21bd370463cc3400a719.jpg",
+        "w": 793,
+        "h": 365
+      }
+    ]
+  },
+  {
+    "loleNrSq": 305,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 1600,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_305_464622_bd056e51b794982ccf494984f360e141.jpg",
+        "w": 552,
+        "h": 478
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_305_464623_d81c5ec13c4c9f86067a795a73dd4ea6.jpg",
+        "w": 475,
+        "h": 528
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_305_464624_970222e52291f5dee7f3169e939e1dce.jpg",
+        "w": 474,
+        "h": 533
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_305_464626_d6b867c4d04ccac5c7152d816c7018f9.jpg",
+        "w": 473,
+        "h": 426
+      }
+    ]
+  },
+  {
+    "loleNrSq": 388,
+    "tipo": "RELÓGIO/PARTE",
+    "valorMinimo": 1600,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_388_463972_a8624a0a6dfcb0a1b775a4bc7576400d.jpg",
+        "w": 826,
+        "h": 1169
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_388_463973_fc06cfa5e8ef41575b324a73cc999cfb.jpg",
+        "w": 826,
+        "h": 1169
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_388_463974_efa417deceeff215bc108cdc33b76277.jpg",
+        "w": 826,
+        "h": 1169
+      }
+    ]
+  },
+  {
+    "loleNrSq": 368,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1600,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_368_464668_cea76e4b583b51c4e148310643b781db.jpg",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_368_464669_853e19c8928cb921e7dde3dbb2adc4e9.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_368_464670_92cb16a63cd3732172547b6001903ce7.jpg",
+        "w": 1280,
+        "h": 960
+      }
+    ]
+  },
+  {
+    "loleNrSq": 104,
+    "tipo": "OUTROS",
+    "valorMinimo": 1800,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_104_466410_ed4c283d28dd0b7899cdbbdf88416420.jpg",
+        "w": 990,
+        "h": 2200
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_104_466411_75475a8112ec559e7fb21144812076da.jpg",
+        "w": 1758,
+        "h": 3906
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_104_466412_928bb3b7bbf16bfdc89ba7b8ccdd24c4.jpg",
+        "w": 1449,
+        "h": 3220
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_104_466413_ad5b40621b81692d480496784a797dc5.jpg",
+        "w": 822,
+        "h": 1826
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_104_466414_2a4802da8e141614e01bb92d9635f4dc.jpg",
+        "w": 1072,
+        "h": 2382
+      }
+    ]
+  },
+  {
+    "loleNrSq": 124,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1900,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_124_466501_d465885bbb87d47835bbd4bb665e070b.jpg",
+        "w": 3159,
+        "h": 1421
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_124_466502_0408bb412252fc620986779e2f80486e.jpg",
+        "w": 3241,
+        "h": 1458
+      }
+    ]
+  },
+  {
+    "loleNrSq": 125,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1900,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_125_466503_fa2480e705a97707f7f7ca688a88c0b2.jpg",
+        "w": 2645,
+        "h": 1190
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_125_466504_63de88b81286f4e6e586c8731b852552.jpg",
+        "w": 1330,
+        "h": 2957
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_125_466505_f3aefcf83672589b783a04cba57dfcfb.jpg",
+        "w": 1546,
+        "h": 3436
+      }
+    ]
+  },
+  {
+    "loleNrSq": 128,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1900,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_128_466510_b4937e066b7ad46404c287a099e0ef51.jpg",
+        "w": 1545,
+        "h": 3433
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_128_466511_a03e0aeb3f826d22c5fef282c9bdb78d.jpg",
+        "w": 1485,
+        "h": 3300
+      }
+    ]
+  },
+  {
+    "loleNrSq": 129,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1900,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_129_466512_62f93f96f2c69036024940e68662aab6.jpg",
+        "w": 1414,
+        "h": 3142
+      }
+    ]
+  },
+  {
+    "loleNrSq": 200,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 1900,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_200_466606_5c4a39e8601ac9800a7047015c7b75c8.jpg",
+        "w": 1502,
+        "h": 3339
+      }
+    ]
+  },
+  {
+    "loleNrSq": 297,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 1900,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_297_464582_183a9b3f16a778ecfbb3347218369624.jpg",
+        "w": 375,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_297_464583_f8b21c35e97b66111010a46144186a4b.jpg",
+        "w": 370,
+        "h": 524
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_297_464584_4f91ed23d101f2b51862edec727a39fd.jpg",
+        "w": 374,
+        "h": 525
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_297_464586_742069b468ace7f48511403a9a6c8486.jpg",
+        "w": 371,
+        "h": 528
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_297_464587_df560613e483e453d172ff72591c3c9d.jpg",
+        "w": 374,
+        "h": 523
+      }
+    ]
+  },
+  {
+    "loleNrSq": 127,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_127_466508_c85c33bef1653196f7e210d03f141bc2.jpg",
+        "w": 1338,
+        "h": 2975
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_127_466509_a537954a27daba97a5c34cb97eb8c90d.jpg",
+        "w": 1376,
+        "h": 3059
+      }
+    ]
+  },
+  {
+    "loleNrSq": 135,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_135_466628_db19c508a99a465a5602f4a1064e3792.jpg",
+        "w": 899,
+        "h": 1599
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_135_466629_2644364bab54a0542bd5fbe7d87419e5.jpg",
+        "w": 899,
+        "h": 1599
+      }
+    ]
+  },
+  {
+    "loleNrSq": 136,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_136_466521_f0fcc244435a02513c66aa45a7a7c17a.jpg",
+        "w": 1499,
+        "h": 3331
+      }
+    ]
+  },
+  {
+    "loleNrSq": 137,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_137_466522_613ad57989c886205283b8c3e898e802.jpg",
+        "w": 1417,
+        "h": 3150
+      }
+    ]
+  },
+  {
+    "loleNrSq": 138,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_138_466523_c3cef378115ac941c36534037ad7833f.jpg",
+        "w": 1483,
+        "h": 3295
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_138_466524_0830cb49624b63ffcc59110f8347c829.jpg",
+        "w": 1326,
+        "h": 2946
+      }
+    ]
+  },
+  {
+    "loleNrSq": 139,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_139_466525_83339be12da278d7c9a2e5fb3007d04d.jpg",
+        "w": 1376,
+        "h": 3058
+      }
+    ]
+  },
+  {
+    "loleNrSq": 140,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_140_466526_5b1d8333870fb85ad9b7f233d639a3a7.jpg",
+        "w": 1300,
+        "h": 2890
+      }
+    ]
+  },
+  {
+    "loleNrSq": 141,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_141_466527_eec7b3aad3fb2099b85d526ed3d056eb.jpg",
+        "w": 1530,
+        "h": 3401
+      }
+    ]
+  },
+  {
+    "loleNrSq": 142,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_142_466528_e556010a12cdf8d15577bf937907de87.jpg",
+        "w": 1289,
+        "h": 2864
+      }
+    ]
+  },
+  {
+    "loleNrSq": 143,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_143_466529_393e933d92cea6ed5fb3a025eca554ce.jpg",
+        "w": 1460,
+        "h": 3245
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_143_466530_158eccb002df5dafb877bdbb48e1f87a.jpg",
+        "w": 1379,
+        "h": 3064
+      }
+    ]
+  },
+  {
+    "loleNrSq": 144,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_144_466531_1e5d8659894b62c1f38f424b43ed9796.jpg",
+        "w": 1193,
+        "h": 2651
+      }
+    ]
+  },
+  {
+    "loleNrSq": 145,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_145_466532_d5cf3cc3fab30d11f003201d14f948d0.jpg",
+        "w": 1479,
+        "h": 3288
+      }
+    ]
+  },
+  {
+    "loleNrSq": 146,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_146_466533_87f3cb166349d22a3c61b51f0282bdd9.jpg",
+        "w": 1507,
+        "h": 3349
+      }
+    ]
+  },
+  {
+    "loleNrSq": 147,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_147_466534_32ce6d6916be5951a83bcd52b34c4326.jpg",
+        "w": 1534,
+        "h": 3408
+      }
+    ]
+  },
+  {
+    "loleNrSq": 149,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_149_466542_f515f7194f998e6f6d78bde3aefab543.jpg",
+        "w": 1523,
+        "h": 3384
+      }
+    ]
+  },
+  {
+    "loleNrSq": 150,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_150_466543_98d3ddc6606f9f29ada4de3e76a6f064.jpg",
+        "w": 1508,
+        "h": 3352
+      }
+    ]
+  },
+  {
+    "loleNrSq": 151,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_151_466544_3f0e6d96b60d3465b097d0bc59085122.jpg",
+        "w": 1520,
+        "h": 3379
+      }
+    ]
+  },
+  {
+    "loleNrSq": 152,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_152_466545_1cbad43c957eda64cc14c98ae2e2d8b4.jpg",
+        "w": 1510,
+        "h": 3355
+      }
+    ]
+  },
+  {
+    "loleNrSq": 153,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_153_466546_c3cd16b2f35689a771f123087dd8b503.jpg",
+        "w": 1510,
+        "h": 3357
+      }
+    ]
+  },
+  {
+    "loleNrSq": 154,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_154_466547_8458d2e56297d88cac5e3e3be026ff4b.jpg",
+        "w": 1514,
+        "h": 3364
+      }
+    ]
+  },
+  {
+    "loleNrSq": 155,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_155_466548_7c5e4d672134ac1a7fdb33dae4c1ddf0.jpg",
+        "w": 1602,
+        "h": 3561
+      }
+    ]
+  },
+  {
+    "loleNrSq": 156,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_156_466549_4cd9b9a57d5cee21bcc89bc964bdc05a.jpg",
+        "w": 1534,
+        "h": 3410
+      }
+    ]
+  },
+  {
+    "loleNrSq": 157,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_157_466550_2fc389e0f76f95cbe19fc427d6bc399e.jpg",
+        "w": 1493,
+        "h": 3318
+      }
+    ]
+  },
+  {
+    "loleNrSq": 158,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_158_466551_a1313c19f7c0c86403b5b1063374b4db.jpg",
+        "w": 1579,
+        "h": 3510
+      }
+    ]
+  },
+  {
+    "loleNrSq": 159,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_159_466552_e88e685da63dbfa27d6b5f7795a1e799.jpg",
+        "w": 1506,
+        "h": 3347
+      }
+    ]
+  },
+  {
+    "loleNrSq": 160,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_160_466553_e2be9001af2886306f925916b35aff60.jpg",
+        "w": 1593,
+        "h": 3540
+      }
+    ]
+  },
+  {
+    "loleNrSq": 161,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_161_466554_e97635184c1cb2a9c60faf73ce306085.jpg",
+        "w": 1479,
+        "h": 3286
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_161_466555_db735a297ff1636325306f2bf9478d34.jpg",
+        "w": 1504,
+        "h": 3342
+      }
+    ]
+  },
+  {
+    "loleNrSq": 162,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_162_466556_e1cf8606806ef8976284eac171d7bb97.jpg",
+        "w": 1520,
+        "h": 3379
+      }
+    ]
+  },
+  {
+    "loleNrSq": 163,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_163_466557_587e78883a01745c4e1347c1324811e5.jpg",
+        "w": 1440,
+        "h": 3201
+      }
+    ]
+  },
+  {
+    "loleNrSq": 164,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_164_466558_9d80a55a01e3e39f8884bb12eff228fe.jpg",
+        "w": 1497,
+        "h": 3327
+      }
+    ]
+  },
+  {
+    "loleNrSq": 165,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_165_466559_718079e3de7bc27ab50839af585f6e80.jpg",
+        "w": 1244,
+        "h": 2765
+      }
+    ]
+  },
+  {
+    "loleNrSq": 166,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_166_466560_cd636fecf7fd8c9eff56b8ff0d6c7472.jpg",
+        "w": 1543,
+        "h": 3430
+      }
+    ]
+  },
+  {
+    "loleNrSq": 167,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_167_466561_3f762c9de87716c89a5cf0edc9a3e8d5.jpg",
+        "w": 1539,
+        "h": 3420
+      }
+    ]
+  },
+  {
+    "loleNrSq": 168,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_168_466562_cf11211131f7ab391e29ca74ca053bdf.jpg",
+        "w": 1526,
+        "h": 3392
+      }
+    ]
+  },
+  {
+    "loleNrSq": 169,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_169_466563_68f6586b8948c327cf313ca511619ea6.jpg",
+        "w": 1515,
+        "h": 3367
+      }
+    ]
+  },
+  {
+    "loleNrSq": 170,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_170_466564_5cbdee8400fca97672abbdf83350b66e.jpg",
+        "w": 1492,
+        "h": 3316
+      }
+    ]
+  },
+  {
+    "loleNrSq": 171,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_171_466565_fc48eddf23dc4edf20db4085067a7ebe.jpg",
+        "w": 1399,
+        "h": 3110
+      }
+    ]
+  },
+  {
+    "loleNrSq": 172,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_172_466566_b0eab7c1b8c7d57cf4194e12e11ee42b.jpg",
+        "w": 1238,
+        "h": 2752
+      }
+    ]
+  },
+  {
+    "loleNrSq": 173,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_173_466567_d0757f4c0d6f28aff35839656842726a.jpg",
+        "w": 1527,
+        "h": 3393
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_173_466568_92e3f98c6d33d73f0b2c7baf7b56b974.jpg",
+        "w": 1535,
+        "h": 3412
+      }
+    ]
+  },
+  {
+    "loleNrSq": 174,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_174_466569_987708ce51bafed4bfc49a585d4d9ec3.jpg",
+        "w": 1224,
+        "h": 2721
+      }
+    ]
+  },
+  {
+    "loleNrSq": 176,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_176_466580_ab50d13dc64a5b97a855c254ab11e1af.jpg",
+        "w": 1523,
+        "h": 3384
+      }
+    ]
+  },
+  {
+    "loleNrSq": 177,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_177_466581_97c14f1908d45c448806d819c1cd8a45.jpg",
+        "w": 1482,
+        "h": 3294
+      }
+    ]
+  },
+  {
+    "loleNrSq": 178,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_178_466582_bfc1e7ca79e49bcafc97506a91f1598d.jpg",
+        "w": 1237,
+        "h": 2749
+      }
+    ]
+  },
+  {
+    "loleNrSq": 179,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_179_466583_8c58e8879e5df600480df280cc6cb879.jpg",
+        "w": 1208,
+        "h": 2686
+      }
+    ]
+  },
+  {
+    "loleNrSq": 180,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_180_466584_7f44ab482482abe18b01b3a671ca3279.jpg",
+        "w": 1271,
+        "h": 2824
+      }
+    ]
+  },
+  {
+    "loleNrSq": 181,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_181_466585_586ea60ad3d917f7871a1227addf5abe.jpg",
+        "w": 1565,
+        "h": 3478
+      }
+    ]
+  },
+  {
+    "loleNrSq": 182,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_182_466586_ad56f99b4897b4771d84cd3b8b2054f9.jpg",
+        "w": 1499,
+        "h": 3332
+      }
+    ]
+  },
+  {
+    "loleNrSq": 183,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_183_466587_b6f21ad240fb46607c9e9878b1b533a0.jpg",
+        "w": 1467,
+        "h": 3261
+      }
+    ]
+  },
+  {
+    "loleNrSq": 184,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_184_466588_03a3430d42cc90d87a1431b26a4d8f8d.jpg",
+        "w": 1504,
+        "h": 3342
+      }
+    ]
+  },
+  {
+    "loleNrSq": 185,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_185_466589_8d34f850dd404320d097a88980349d72.jpg",
+        "w": 1521,
+        "h": 3381
+      }
+    ]
+  },
+  {
+    "loleNrSq": 186,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_186_466590_e2c904bec64646d774f19cd5bf129879.jpg",
+        "w": 1233,
+        "h": 2740
+      }
+    ]
+  },
+  {
+    "loleNrSq": 187,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_187_466591_714c50a79d4d8411b28f3b72881c4db8.jpg",
+        "w": 1496,
+        "h": 3326
+      }
+    ]
+  },
+  {
+    "loleNrSq": 188,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_188_466592_8b9887dc2bbb46e2c2194fdedef8627e.jpg",
+        "w": 1526,
+        "h": 3391
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_188_466593_808dc5c42b23e7d5a43d6f81c249279e.jpg",
+        "w": 1457,
+        "h": 3238
+      }
+    ]
+  },
+  {
+    "loleNrSq": 189,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_189_466594_0668879c83478118250eb64d4ec166bb.jpg",
+        "w": 1605,
+        "h": 3568
+      }
+    ]
+  },
+  {
+    "loleNrSq": 190,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_190_466595_b4b27178ffd1c249567cff7c10f4099b.jpg",
+        "w": 1567,
+        "h": 3483
+      }
+    ]
+  },
+  {
+    "loleNrSq": 191,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_191_466596_ead2bf27af3303b48d7448dc761bc142.jpg",
+        "w": 1567,
+        "h": 3483
+      }
+    ]
+  },
+  {
+    "loleNrSq": 225,
+    "tipo": "RELÓGIO/PARTE",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_225_459490_843a681f6a22b74d400ca3a7ea6c5ec7.jpg",
+        "w": 1044,
+        "h": 610
+      }
+    ]
+  },
+  {
+    "loleNrSq": 234,
+    "tipo": "INFORMÁTICA",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_234_459528_ec58e484e3032a847c65b0c5466e6d01.jpg",
+        "w": 543,
+        "h": 812
+      }
+    ]
+  },
+  {
+    "loleNrSq": 245,
+    "tipo": "JOIA/PEDRA PRECIOSA",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_245_459546_a0cf8f53eca6122bd719caaffca93a51.jpg",
+        "w": 501,
+        "h": 545
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_245_463957_09fc1d81a95aaf42c39a2c82bffb7e15.jpg",
+        "w": 800,
+        "h": 1139
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_245_463958_5e932dd795badb8d81ad70df8c99c561.jpg",
+        "w": 800,
+        "h": 1137
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_245_463959_56c4ea56b5973c592295f01ee6e5c802.jpg",
+        "w": 800,
+        "h": 1139
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_245_463960_b03f1df0fad16377bc8bcedcae621b0c.jpg",
+        "w": 800,
+        "h": 1140
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_245_463961_745c4a5ec83ff5306b207f5964db4f18.jpg",
+        "w": 800,
+        "h": 1139
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_245_463962_65fa3dff15ef9cfde6cd68c07299d16c.jpg",
+        "w": 800,
+        "h": 1139
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_245_463963_bb04164ea12cfe150e7c52c8ec790be8.jpg",
+        "w": 800,
+        "h": 1137
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_245_463964_9fed78e8d98f6b10e15523ee9df0ecb1.jpg",
+        "w": 800,
+        "h": 1137
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_245_463965_df3dc6071af74001a30b3b85a9c1b844.jpg",
+        "w": 800,
+        "h": 1137
+      }
+    ]
+  },
+  {
+    "loleNrSq": 294,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_294_464568_53b2edcaf18a1781d3d49c5a0a3f6c71.jpg",
+        "w": 364,
+        "h": 520
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_294_464569_0860bb3e42cce331867784b402970921.jpg",
+        "w": 363,
+        "h": 523
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_294_464570_b146e42f2140d004605e78c6343e682e.jpg",
+        "w": 360,
+        "h": 525
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_294_464571_59cce2a3b17a04931ac668d815ff44c8.jpg",
+        "w": 360,
+        "h": 527
+      }
+    ]
+  },
+  {
+    "loleNrSq": 298,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_298_464588_ef001239d7c1a9349bfe9f4369b3c24d.jpg",
+        "w": 372,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_298_464589_3d6140d7e3d805f897f6d5506362110c.jpg",
+        "w": 371,
+        "h": 520
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_298_464590_3c1315b1fa005850be6933a31d5978c9.jpg",
+        "w": 370,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_298_464591_3e70e38d791c47354ec36efcd09dc8e8.jpg",
+        "w": 375,
+        "h": 525
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_298_464592_b0c312492058ef46da568f0e3d0dbd93.jpg",
+        "w": 372,
+        "h": 523
+      }
+    ]
+  },
+  {
+    "loleNrSq": 336,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_336_464909_eb79861eb893a1d31a14f0343ced1298.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 337,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_337_464910_6ba49d8e5e13a521c2ee8a64f5c744f2.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 544,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 2000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_544_464194_a74fe6d099d54f09d07010c395807a84.jpg",
+        "w": 899,
+        "h": 1060
+      }
+    ]
+  },
+  {
+    "loleNrSq": 11,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2050,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_11_465710_e300114647c0a72d0c1c973320331471.jpg",
+        "w": 1378,
+        "h": 3063
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_11_465711_492e264c116c6702b36346622813e9de.jpg",
+        "w": 1016,
+        "h": 2258
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_11_465712_8e78924f52d8f8bcc19f276b4d732890.jpg",
+        "w": 1646,
+        "h": 740
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_11_465713_b4689cdc5266df5169aafa92f04e485e.jpg",
+        "w": 695,
+        "h": 1545
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_11_465714_282a2d4c078a2770133b60b32e1ceff6.jpg",
+        "w": 836,
+        "h": 1859
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_11_465715_e8594616e9351e160d387c227deeb5cc.jpg",
+        "w": 1165,
+        "h": 2590
+      }
+    ]
+  },
+  {
+    "loleNrSq": 123,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_123_466499_ff45de8746d5b0c4340e0ac408ddc0d7.jpg",
+        "w": 1432,
+        "h": 3182
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_123_466500_2799d1feec6f99cd5372c4681a38ac3c.jpg",
+        "w": 3120,
+        "h": 1404
+      }
+    ]
+  },
+  {
+    "loleNrSq": 126,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_126_466506_10df37986a546e6785516f701e14173b.jpg",
+        "w": 1397,
+        "h": 3104
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_126_466507_7a867fd0254a70b5de0309bd90507993.jpg",
+        "w": 1522,
+        "h": 3384
+      }
+    ]
+  },
+  {
+    "loleNrSq": 130,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_130_466513_90f08a7f9958d8a9250159fff6108da7.jpg",
+        "w": 1513,
+        "h": 3364
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_130_466514_28dd4b96381e34b73da8f2d78f2cd984.jpg",
+        "w": 1464,
+        "h": 3255
+      }
+    ]
+  },
+  {
+    "loleNrSq": 192,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_192_466597_0d8eca213acf6b1d2cab8c130ab12c1d.jpg",
+        "w": 1577,
+        "h": 3505
+      }
+    ]
+  },
+  {
+    "loleNrSq": 193,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_193_466598_51037bc10a03ae945830b4725d763844.jpg",
+        "w": 1549,
+        "h": 3442
+      }
+    ]
+  },
+  {
+    "loleNrSq": 198,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_198_466604_d5e40fa4e215040c21829c84ec5a1c8b.jpg",
+        "w": 1582,
+        "h": 3516
+      }
+    ]
+  },
+  {
+    "loleNrSq": 199,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_199_466605_ce2a780b637a44d8253ff4c212b0e877.jpg",
+        "w": 1562,
+        "h": 3471
+      }
+    ]
+  },
+  {
+    "loleNrSq": 70,
+    "tipo": "ELETRÔNICO/ÁUDIO/VÍDEO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_70_466179_eb95a5208c564043cd902627239e299b.jpg",
+        "w": 1229,
+        "h": 2732
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_70_466180_57ad4c4fbd829b6238abfffdac489db1.jpg",
+        "w": 745,
+        "h": 1655
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_70_466181_70b44d26e6dc83ee187cf154c2b89582.jpg",
+        "w": 869,
+        "h": 1931
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_70_466182_def56832a9836e549eaa59569bbcbc19.jpg",
+        "w": 1066,
+        "h": 2369
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_70_466183_e6072c9a1b9d237547c09895d0329de3.jpg",
+        "w": 978,
+        "h": 2174
+      }
+    ]
+  },
+  {
+    "loleNrSq": 114,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_114_466480_959dfa3b4b66e9cecada19e1227ca122.jpg",
+        "w": 1474,
+        "h": 3276
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_114_466481_92813ae525fcd98abc84ac23f336112c.jpg",
+        "w": 1325,
+        "h": 2945
+      }
+    ]
+  },
+  {
+    "loleNrSq": 115,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_115_466482_87072603891bcc58ba8d165fbeeaa76e.jpg",
+        "w": 3442,
+        "h": 1549
+      }
+    ]
+  },
+  {
+    "loleNrSq": 116,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_116_466483_335d99d24a1e62e0ee86f415d30920b8.jpg",
+        "w": 3518,
+        "h": 1583
+      }
+    ]
+  },
+  {
+    "loleNrSq": 117,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_117_466484_aff7cf764f4c9e996dbddb6540bdd07e.jpg",
+        "w": 1539,
+        "h": 3420
+      }
+    ]
+  },
+  {
+    "loleNrSq": 118,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_118_466485_79dd535ce607e0e2b1f166151fa1f47f.jpg",
+        "w": 1385,
+        "h": 3079
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_118_466486_cd6476ac9d63c30ab86fabcc3ca047e9.jpg",
+        "w": 1457,
+        "h": 3238
+      }
+    ]
+  },
+  {
+    "loleNrSq": 119,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_119_466487_f953b70573bd0f70f6aecd1a196bcdd1.jpg",
+        "w": 1449,
+        "h": 3222
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_119_466488_05bf4a35efc474ae3e42ff2b71528ecc.jpg",
+        "w": 1444,
+        "h": 3210
+      }
+    ]
+  },
+  {
+    "loleNrSq": 120,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_120_466489_cd5f13d896463733ad0383727b731783.jpg",
+        "w": 1358,
+        "h": 3019
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_120_466490_526a2e4dea71369abf58a52d2a6dc1f8.jpg",
+        "w": 3215,
+        "h": 1446
+      }
+    ]
+  },
+  {
+    "loleNrSq": 122,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_122_466496_95a252f64b122f427c19c7f7c8ceb4de.jpg",
+        "w": 1104,
+        "h": 2454
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_122_466497_36eb34a135a7d47c762e9d8ce1c8abe2.jpg",
+        "w": 1242,
+        "h": 2760
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_122_466498_87632342801938232c060a94a83290a1.jpg",
+        "w": 1496,
+        "h": 3326
+      }
+    ]
+  },
+  {
+    "loleNrSq": 131,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_131_466515_ff2efe805da4e88f0680b765dc306d97.jpg",
+        "w": 1419,
+        "h": 3154
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_131_466516_e2c87910ec9bbdfb8c8b7128f1fda42f.jpg",
+        "w": 1329,
+        "h": 2953
+      }
+    ]
+  },
+  {
+    "loleNrSq": 132,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_132_466517_b29b02ead15c7fe0ab50793bad06946d.jpg",
+        "w": 1496,
+        "h": 3326
+      }
+    ]
+  },
+  {
+    "loleNrSq": 133,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_133_466518_9e7768166b1a74b390e05d793a234594.jpg",
+        "w": 1472,
+        "h": 3272
+      }
+    ]
+  },
+  {
+    "loleNrSq": 134,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_134_466519_c27d8f607f0d79ea2b1cbb5c59c87b72.jpg",
+        "w": 1286,
+        "h": 2858
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_134_466520_f8f2da2a0b54ebe01b78cfb06f935bda.jpg",
+        "w": 1432,
+        "h": 3182
+      }
+    ]
+  },
+  {
+    "loleNrSq": 195,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_195_466600_5c2ae13407aeec7d85db414a46235a43.jpg",
+        "w": 1545,
+        "h": 3434
+      }
+    ]
+  },
+  {
+    "loleNrSq": 196,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_196_466601_8d5762d31667e8be38251554316d2b47.jpg",
+        "w": 1548,
+        "h": 3440
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_196_466602_0a95e540f03f26ef4a78de03855ecde8.jpg",
+        "w": 1183,
+        "h": 2630
+      }
+    ]
+  },
+  {
+    "loleNrSq": 197,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_197_466603_e5e6ba36739f4c3cc2d067b3ce787273.jpg",
+        "w": 1579,
+        "h": 3510
+      }
+    ]
+  },
+  {
+    "loleNrSq": 306,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 2300,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_306_464627_839001dfe1a37bf5ee191985b0109c69.jpg",
+        "w": 554,
+        "h": 500
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_306_464628_2bc545133ec351a2fce6de5332d68ca0.jpg",
+        "w": 473,
+        "h": 523
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_306_464629_f0828a3b81a431f1672f1a7d27e97a41.jpg",
+        "w": 472,
+        "h": 529
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_306_464630_4ac762b14dc14d2da8cc6dfa85e87b9d.jpg",
+        "w": 474,
+        "h": 420
+      }
+    ]
+  },
+  {
+    "loleNrSq": 377,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": []
+  },
+  {
+    "loleNrSq": 378,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": []
+  },
+  {
+    "loleNrSq": 379,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2300,
+    "imagens": []
+  },
+  {
+    "loleNrSq": 194,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2600,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_194_466599_1f1e2a72524ab2d6555e6056d5288ae8.jpg",
+        "w": 1485,
+        "h": 3300
+      }
+    ]
+  },
+  {
+    "loleNrSq": 304,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 2600,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_304_464618_05ba58ab72f57cbdd40e0687200e33a5.jpg",
+        "w": 556,
+        "h": 489
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_304_464619_f5d04fe685c0c9a309e51fb02cabb2dc.jpg",
+        "w": 373,
+        "h": 518
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_304_464620_51891d0a1e46097352b3dbd3cc11d6a5.jpg",
+        "w": 472,
+        "h": 530
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_304_464621_cebed567600531e847bb65a138b68e26.jpg",
+        "w": 474,
+        "h": 433
+      }
+    ]
+  },
+  {
+    "loleNrSq": 295,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 2700,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_295_464572_230307c4d7af15e96059f6b3f35088f2.jpg",
+        "w": 372,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_295_464573_8e1bddb6a2bec8054fe16ce3e0842a1f.jpg",
+        "w": 375,
+        "h": 527
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_295_464574_65160696a7b8d88ba130466436dd86e3.jpg",
+        "w": 373,
+        "h": 525
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_295_464575_30b06aec6945a1f370bdf1e5be841f10.jpg",
+        "w": 372,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_295_464576_0475eb3349038da10eeaf31f7ed50b53.jpg",
+        "w": 596,
+        "h": 266
+      }
+    ]
+  },
+  {
+    "loleNrSq": 355,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 2700,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_355_464959_c79148061713eb60daade12ac06cb261.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_355_464960_c20f50e774d8b68e5ca06ad4a4f9c77b.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_355_464961_9af33523cd4a2669d418e9415a420c74.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_355_464962_8bd4ccc5fcab9f21bc714dd9aa77d991.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 303,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 2900,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_303_464613_8f024420f2cebfa14b4acbc4fad7fdfe.jpg",
+        "w": 374,
+        "h": 529
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_303_464614_7732d18cf0228770feddb5f01cd39fcb.jpg",
+        "w": 374,
+        "h": 521
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_303_464615_67d0d0cf9c2e658b20abf61e1f1eec23.jpg",
+        "w": 373,
+        "h": 518
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_303_464616_80cf9d74ac276c0ac4a6624dcd5a7c23.jpg",
+        "w": 373,
+        "h": 525
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_303_464617_67e2d221e40979cbc105c05a5a389995.jpg",
+        "w": 597,
+        "h": 293
+      }
+    ]
+  },
+  {
+    "loleNrSq": 98,
+    "tipo": "APARELHO/PEÇA MECÂNICA",
+    "valorMinimo": 3000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_98_466369_0955e1085dfeba830a464a196ba01c09.jpg",
+        "w": 1194,
+        "h": 2654
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_98_466370_ecafe7927c783aed3d504a77fe8fa066.jpg",
+        "w": 895,
+        "h": 1990
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_98_466371_683af57e07896941d0459435c1b3e979.jpg",
+        "w": 1018,
+        "h": 2263
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_98_466372_4b90007da8651c2096bf48967298cb7f.jpg",
+        "w": 2060,
+        "h": 927
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_98_466373_ba370a4f03d01cc49b825e376b539f4b.jpg",
+        "w": 708,
+        "h": 1573
+      }
+    ]
+  },
+  {
+    "loleNrSq": 307,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 3000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_307_464631_24a3d59e6c4b7c3f742bec4e8c2a2848.jpg",
+        "w": 556,
+        "h": 494
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_307_464632_4227f2bf59caffac970ab5d64e51697d.jpg",
+        "w": 474,
+        "h": 530
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_307_464633_25643108616338d2ac1573f9a8b53412.jpg",
+        "w": 474,
+        "h": 528
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_307_464634_2c3daf1f7fdf28abcefc26fecc8c3141.jpg",
+        "w": 594,
+        "h": 449
+      }
+    ]
+  },
+  {
+    "loleNrSq": 296,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 3100,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_296_464577_7878d22977681f631560029fa82b6b1e.jpg",
+        "w": 372,
+        "h": 527
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_296_464578_31980b4b1110e226551bf70b7c4d6651.jpg",
+        "w": 374,
+        "h": 525
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_296_464579_9bd705c726de2350c0bc2069c12d1182.jpg",
+        "w": 373,
+        "h": 527
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_296_464580_4eb189cdbdc6ba3f1978429338ab537f.jpg",
+        "w": 374,
+        "h": 527
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_296_464581_1c4452f7cc386c549343736221b1aae3.jpg",
+        "w": 374,
+        "h": 526
+      }
+    ]
+  },
+  {
+    "loleNrSq": 274,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3130,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_274_464090_e46d4b89106dd461f2669fa317fa6060.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 275,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3130,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_275_464091_2ba6afa6a87542cd858e08836bd0fda5.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 31,
+    "tipo": "BICICLETA/ACESSÓRIO",
+    "valorMinimo": 3200,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_31_465950_d2a9eaee6bc1bd69b2bbefab4e397a2c.jpg",
+        "w": 929,
+        "h": 2066
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_31_465951_0e9b3c97f5d4a2e0dd82a707ca1c48e6.jpg",
+        "w": 582,
+        "h": 1295
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_31_465952_3fa9f4f42bbafbaaf09b4618577b9ec5.jpg",
+        "w": 605,
+        "h": 1345
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_31_465953_d6d5ee7fc0af0a7b1432022e3e271180.jpg",
+        "w": 826,
+        "h": 1836
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_31_465954_9899cc0e17982dccefd315fff37d7aa3.jpg",
+        "w": 877,
+        "h": 1948
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_31_465955_b99583e8f46a20d5a5139900b96b0faf.jpg",
+        "w": 772,
+        "h": 1715
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_31_465956_fa72ea0b7616be00b5939e304214ef9d.jpg",
+        "w": 1128,
+        "h": 2506
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_31_465957_c6cc8af028f4af2ded6c9bc1bf08ab3e.jpg",
+        "w": 653,
+        "h": 1451
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_31_465958_7662799c5cbef52a4060c664336be822.jpg",
+        "w": 707,
+        "h": 1572
+      }
+    ]
+  },
+  {
+    "loleNrSq": 276,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3275,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_276_464092_a219bbcc3b75b65900d1d86c6ad77e98.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 72,
+    "tipo": "NOTEBOOK",
+    "valorMinimo": 3400,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_72_466190_946828da90e4e2ea71457104a1c02779.jpg",
+        "w": 811,
+        "h": 1802
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_72_466191_fc0a120bb08b1b2043706f9da3c60f98.jpg",
+        "w": 890,
+        "h": 1977
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_72_466192_c7691e28426dad8af078b1a590f97976.jpg",
+        "w": 602,
+        "h": 1339
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_72_466193_3480d40f3e12256e062edf58c3f5a1c3.jpg",
+        "w": 780,
+        "h": 1733
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_72_466194_2fbf9d1169e59f7914014ddb0ab29cbb.jpg",
+        "w": 683,
+        "h": 1519
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_72_466195_f7a687681edc83cd7f73219c43416491.jpg",
+        "w": 650,
+        "h": 1445
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_72_466196_06dae8e995968f4368269b55051f0ee2.jpg",
+        "w": 1001,
+        "h": 2225
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_72_466197_39cfad5cf39f232b561ea5c9a02a2a85.jpg",
+        "w": 1246,
+        "h": 2768
+      }
+    ]
+  },
+  {
+    "loleNrSq": 272,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3482,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_272_464088_31ab99a01e4ff062fa0485dda4b2ed49.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 273,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3482,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_273_464089_f6f7275c557513ac3bfab39c2d9d66f7.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 354,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_354_464956_853274caeaf2307ec7db79dfd7f86470.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_354_464957_0931638c59f09e5c3c2f64d7406388b2.jpg",
+        "w": 1280,
+        "h": 960
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_354_464958_1bb2f4671c23a68aa2c081e4c3baab71.jpg",
+        "w": 960,
+        "h": 1280
+      }
+    ]
+  },
+  {
+    "loleNrSq": 277,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3505,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_277_464093_a60ec740372457988088d3f4973ff418.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 278,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3505,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_278_464094_3c6198444ec95f173a1b3173e3908b58.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 279,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3505,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_279_464095_b553e6b9aef67ad8d94fbb678f0d0110.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 280,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3505,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_280_464096_baa3c788aaca7978d09b335d6f831448.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 281,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3505,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_281_464097_fe9a73f6007135fa2798a72559da1ff9.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 282,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3505,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_282_464098_55a77ffa78f0e6a8172dfb0ca7a95005.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 283,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3505,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_283_464099_c0f22df1bc9e7b69d7df9f781edad9bd.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 284,
+    "tipo": "CELULAR/ACESSÓRIO",
+    "valorMinimo": 3505,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_284_464100_db6adc6fdcd1654726c95b2a883de333.jpg",
+        "w": 720,
+        "h": 480
+      }
+    ]
+  },
+  {
+    "loleNrSq": 292,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 3800,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_292_464560_d41e44ff2c5844763d9a9e7a8ffc9d48.jpg",
+        "w": 354,
+        "h": 523
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_292_464561_9698bad2230696b4aae1cb84d88ba75a.jpg",
+        "w": 354,
+        "h": 511
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_292_464562_23be01ec11be6d5aa908aeb7b079407e.jpg",
+        "w": 353,
+        "h": 499
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_292_464563_64222701fa96462988d628103ec747c4.jpg",
+        "w": 362,
+        "h": 525
+      }
+    ]
+  },
+  {
+    "loleNrSq": 300,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 3800,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_300_464598_0a9c937a6fbf7d5ccc5edf6598617a41.jpg",
+        "w": 371,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_300_464599_f6124d47ba4fa21ef26c59684741037b.jpg",
+        "w": 373,
+        "h": 524
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_300_464600_ada7b00800cc69904b8ce775266fd51c.jpg",
+        "w": 370,
+        "h": 527
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_300_464601_ec0b054148354cfe866a213cd909331c.jpg",
+        "w": 371,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_300_464602_b333cd40ece04acd2b0d5b6c3ccd7c17.jpg",
+        "w": 794,
+        "h": 329
+      }
+    ]
+  },
+  {
+    "loleNrSq": 237,
+    "tipo": "ARTIGO ESPORTIVO",
+    "valorMinimo": 4000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_237_459531_f058c6877d16c58cc93506b0b9d934da.jpg",
+        "w": 782,
+        "h": 613
+      }
+    ]
+  },
+  {
+    "loleNrSq": 289,
+    "tipo": "CAMINHÃO/ÔNIBUS",
+    "valorMinimo": 4500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_289_464548_f510b07061b7d1e5ed8957bf371a14a2.jpg",
+        "w": 353,
+        "h": 521
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_289_464549_1107961e0d43a27183fb4ab95ffa6ce5.jpg",
+        "w": 357,
+        "h": 525
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_289_464550_964607a3408862ea201a556e83336783.jpg",
+        "w": 357,
+        "h": 520
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_289_464551_c894e1c4949cae5d90d0b6a59f892d73.jpg",
+        "w": 360,
+        "h": 526
+      }
+    ]
+  },
+  {
+    "loleNrSq": 286,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 5000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_286_464532_e518e9d4264bec81c2722936ad5deade.jpg",
+        "w": 347,
+        "h": 509
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_286_464533_7b7e8b2f3afe9d431179f2a6f31a6612.jpg",
+        "w": 343,
+        "h": 516
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_286_464534_31d38c30e04a84dadfb1e017441dfc91.jpg",
+        "w": 359,
+        "h": 443
+      }
+    ]
+  },
+  {
+    "loleNrSq": 106,
+    "tipo": "DIVERSOS",
+    "valorMinimo": 6000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466420_de76ae9f272d6e291c92e3b177beffbb.jpg",
+        "w": 679,
+        "h": 1510
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466421_470462094da39d9fac73cc8da3e13087.jpg",
+        "w": 434,
+        "h": 966
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466422_364656ede11c30e74c3f959b56b063bf.jpg",
+        "w": 411,
+        "h": 914
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466423_3d224632326b5d4e54992889e4ccdbab.jpg",
+        "w": 783,
+        "h": 1740
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466424_e3eb8b501920ecd563ae65ae17310f2b.jpg",
+        "w": 340,
+        "h": 757
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466425_aca8c6a13ff3a96c9f982382de31363c.jpg",
+        "w": 417,
+        "h": 927
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466426_5847c1c0af70ffcb8cfddc6a1f971d9d.jpg",
+        "w": 466,
+        "h": 1035
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466427_6f1b6c02aa4dc0ab2870e3bced350c30.jpg",
+        "w": 523,
+        "h": 1163
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466428_95d6518efa9021bd25c854b98ca929fd.jpg",
+        "w": 493,
+        "h": 1097
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466429_27d3089a670ac9ab5390716a28a4ef17.jpg",
+        "w": 609,
+        "h": 1354
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466430_c337e75a1222483dd2a4b9833d6cdbaa.jpg",
+        "w": 437,
+        "h": 973
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466431_bc2f44f73daf6fe08318540f2c387ec6.jpg",
+        "w": 470,
+        "h": 1044
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466432_8677eb575958c2af36c104454449d671.jpg",
+        "w": 502,
+        "h": 1115
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466433_fe6da1ff2ce4cdb40f9544279ef9d2eb.jpg",
+        "w": 2194,
+        "h": 987
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466434_e0fbd837cd5e67831d24ae329d984018.jpg",
+        "w": 558,
+        "h": 1240
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_106_466435_c1264fa697afcb81fcfee641d81a3950.jpg",
+        "w": 485,
+        "h": 1079
+      }
+    ]
+  },
+  {
+    "loleNrSq": 287,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 6500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_287_464540_3ffe2156991356be1ce396fb9dde7d94.jpg",
+        "w": 372,
+        "h": 528
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_287_464541_f556bd40a00d6d2176fd8c838acbc78c.jpg",
+        "w": 361,
+        "h": 529
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_287_464542_e54ec32f0e909ecdf14ac31f000437b7.jpg",
+        "w": 371,
+        "h": 526
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_287_464543_a5caceccbc6ac1236c0895eca23f4b83.jpg",
+        "w": 373,
+        "h": 528
+      }
+    ]
+  },
+  {
+    "loleNrSq": 285,
+    "tipo": "NOTEBOOK",
+    "valorMinimo": 7049,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_285_464101_51ef44a7a15902688c571fc14ebec7ba.jpg",
+        "w": 720,
+        "h": 480
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_285_464314_564e091a8f65dd7d5af8615003d71704.jpg",
+        "w": 900,
+        "h": 1600
+      }
+    ]
+  },
+  {
+    "loleNrSq": 288,
+    "tipo": "CAMINHÃO/ÔNIBUS",
+    "valorMinimo": 8000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_288_464544_88c20b7879326ed3ffdd453cfb11277d.jpg",
+        "w": 455,
+        "h": 340
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_288_464545_24c9728b7392fcb88bc0872b8949cd24.jpg",
+        "w": 1013,
+        "h": 495
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_288_464546_a9d0b38f5e40cfe7f28a7886a244b910.jpg",
+        "w": 974,
+        "h": 459
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_288_464547_abe6cc9e4d476a43d283fadca0e3210b.jpg",
+        "w": 327,
+        "h": 528
+      }
+    ]
+  },
+  {
+    "loleNrSq": 293,
+    "tipo": "CAMINHÃO/ÔNIBUS",
+    "valorMinimo": 10000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_293_464564_1a5078aec838ae1d24d5f26117e5f553.jpg",
+        "w": 348,
+        "h": 521
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_293_464565_791b45f38a3848b7d52b90d6bb0defe4.jpg",
+        "w": 366,
+        "h": 525
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_293_464566_434a0cbb492e0c876b276583692bf4a4.jpg",
+        "w": 356,
+        "h": 523
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_293_464567_c53e735ecbe2c04990e6a8ce6e28943f.jpg",
+        "w": 364,
+        "h": 523
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_293_466659_ce940ff46993624034a55c8f6c056280.jpg",
+        "w": 900,
+        "h": 1600
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_293_466660_4cdb4cbebecfd53f70efb87d221c5973.jpg",
+        "w": 900,
+        "h": 1600
+      }
+    ]
+  },
+  {
+    "loleNrSq": 342,
+    "tipo": "VEÍCULO",
+    "valorMinimo": 14500,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464696_27bcf0d74aa30b68fba67ccd4c35b049.jpg",
+        "w": 878,
+        "h": 1171
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464697_10ed89edbef5e9c27bf1c8588d69b1d9.jpg",
+        "w": 960,
+        "h": 1280
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464698_821f33baa4a14efa2d8a4b94093832db.jpg",
+        "w": 717,
+        "h": 957
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464699_4dd89c17f3924aaf82889ce18e99360c.jpg",
+        "w": 1038,
+        "h": 779
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464700_bec88290bceefd4770fbf056c8fdbf1c.jpg",
+        "w": 970,
+        "h": 727
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464701_a2c466387ce890ba5f4d61a99938fd0a.jpg",
+        "w": 731,
+        "h": 975
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464702_c8e3690a8a550c23a21be1184c59bb81.jpg",
+        "w": 980,
+        "h": 735
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464703_6b535c70ed6e1b15f8213c3015727a8c.jpg",
+        "w": 805,
+        "h": 1074
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464704_3d14bd2c4c9f143079facdfea1431319.jpg",
+        "w": 1113,
+        "h": 835
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464705_09d68c93bb3ee7e57d2b13177b66297a.jpg",
+        "w": 993,
+        "h": 745
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464706_9b96a7031bffee018058420cee9c3d98.jpg",
+        "w": 1091,
+        "h": 818
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464707_86c51f712c2420537c61797ffbd884cc.jpg",
+        "w": 983,
+        "h": 737
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464708_88420e0e76983391185c1f08474dcdc3.jpg",
+        "w": 1025,
+        "h": 768
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464709_7e2b6f291a4322fd68fe4a8e1f31f129.jpg",
+        "w": 964,
+        "h": 723
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464710_1a3e480ebea1c3366ae53c3cae41461b.jpg",
+        "w": 996,
+        "h": 747
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_342_464711_de85ff3c12f73ea58bd210595ad4dc25.jpg",
+        "w": 1016,
+        "h": 762
+      }
+    ]
+  },
+  {
+    "loleNrSq": 520,
+    "tipo": "JOIA/PEDRA PRECIOSA",
+    "valorMinimo": 120000,
+    "imagens": [
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458948_557072392de3214e6d884b7909e43581.jpg",
+        "w": 487,
+        "h": 802
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458949_05218df3b7adc6a2b79a634bd0b93546.jpg",
+        "w": 546,
+        "h": 689
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458950_e5c08aa2dbb309e31986f586a2bbd0e4.jpg",
+        "w": 795,
+        "h": 1126
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458951_8cec3b60c73ad7b0ef930d3af7ba9c9b.jpg",
+        "w": 821,
+        "h": 1163
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458952_bb3f71095c54ae87a2572741522095ab.jpg",
+        "w": 741,
+        "h": 1049
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458953_f1e0902654c02823584863d1cbb84077.jpg",
+        "w": 826,
+        "h": 1169
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458954_8834824518b796c5832b89d4e4151ac3.jpg",
+        "w": 727,
+        "h": 1030
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458955_a8543c6fe4d8057773881bd5a5ff2003.jpg",
+        "w": 826,
+        "h": 1169
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458956_97094c4b7c41e7802e2721443141de63.jpg",
+        "w": 813,
+        "h": 1150
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458957_f2f97e7cfe390917dd2217350ebb9789.jpg",
+        "w": 826,
+        "h": 1169
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458958_938d835fca3aca6862603f3e9a31df69.jpg",
+        "w": 826,
+        "h": 1169
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458959_ec375786c9f0e1ad5fe39e761d5bd5c0.jpg",
+        "w": 826,
+        "h": 1169
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458960_f23789a759fff1a760d10c0ef0681de7.jpg",
+        "w": 826,
+        "h": 1169
+      },
+      {
+        "src": "http://arquivosleilao.receita.fazenda.gov.br/arquivos/images/2025/800100/2/foto_800100_2025_2_520_458961_59987285647bbd3f79200eb6db284568.jpg",
+        "w": 753,
+        "h": 1066
+      }
+    ]
+  }
+]

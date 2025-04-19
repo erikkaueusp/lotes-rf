@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Lotes da Receita</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 1rem;
+    }
+
+    input,
+    select {
+      margin: 0.5rem 0;
+      padding: 0.5rem;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 1rem;
+    }
+
+    th,
+    td {
+      border: 1px solid #ccc;
+      padding: 0.5rem;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    img {
+      height: 80px;
+      margin: 2px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    img:hover {
+      transform: scale(1.05);
+    }
+
+    .extra-imgs {
+      color: gray;
+      font-size: 0.9rem;
+    }
+
+    #lightbox {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0.85);
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      flex-direction: column;
+    }
+
+    #lightbox img {
+      width: auto;
+      height: auto;
+      max-width: 95vw;
+      max-height: 95vh;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+    }
+
+    #lightbox .close-btn {
+      color: white;
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      cursor: pointer;
+    }
+
+    #lightbox .nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      color: white;
+      font-size: 3rem;
+      cursor: pointer;
+      user-select: none;
+      padding: 0 20px;
+    }
+
+    #lightbox .nav.prev {
+      left: 0;
+    }
+
+    #lightbox .nav.next {
+      right: 0;
+    }
+  </style>
+</head>
+
+<body onkeydown="teclaLightbox(event)">
+  <h1>Lotes Disponíveis (permite PF)</h1>
+
+  <label for="tipoFiltro">Filtrar por Tipo:</label>
+  <select id="tipoFiltro">
+    <option value="">-- Todos --</option>
+  </select>
+
+  <label for="buscarLote">Buscar por Lote:</label>
+  <input type="number" id="buscarLote" placeholder="Digite o loleNrSq" />
+
+  <label for="valorMin">Valor mínimo:</label>
+  <input type="number" id="valorMin" placeholder="Mínimo" />
+
+  <label for="valorMax">Valor máximo:</label>
+  <input type="number" id="valorMax" placeholder="Máximo" />
+
+  <button onclick="exportarCSV()">Exportar CSV</button>
+
+  <table>
+    <thead>
+      <tr>
+        <th>loleNrSq</th>
+        <th>Tipo</th>
+        <th><button onclick="ordenarPorValor()">Valor Mínimo ▼</button></th>
+        <th>Imagens</th>
+      </tr>
+    </thead>
+    <tbody id="tabelaLotes"></tbody>
+  </table>
+
+  <div id="lightbox" onclick="fecharLightbox()">
+    <div class="close-btn">&times;</div>
+    <div class="nav prev" onclick="navegarImagem(-1, event)">&#10094;</div>
+    <img id="lightbox-img" src="" alt="imagem em destaque">
+    <div class="nav next" onclick="navegarImagem(1, event)">&#10095;</div>
+  </div>
+
+  <script>
+    let dados = []
+    let crescente = true;
+    let imagensAtuais = []
+    let imagemIndex = 0
+
+    async function carregarDados() {
+      const response = await fetch('dados_lotes.json');
+      dados = await response.json();
+      popularFiltro();
+      renderizarTabela();
+    }
+
+    function teclaLightbox(e) {
+      if (document.getElementById('lightbox').style.display !== 'flex') return;
+      if (e.key === 'ArrowRight') navegarImagem(1, e);
+      if (e.key === 'ArrowLeft') navegarImagem(-1, e);
+      if (e.key === 'Escape') fecharLightbox();
+    }
+
+    function popularFiltro() {
+      const tipos = [...new Set(dados.map(l => l.tipo))].sort();
+      const select = document.getElementById('tipoFiltro');
+      tipos.forEach(tipo => {
+        const opt = document.createElement('option');
+        opt.value = tipo;
+        opt.textContent = tipo;
+        select.appendChild(opt);
+      });
+
+      select.addEventListener('change', renderizarTabela);
+      document.getElementById('buscarLote').addEventListener('input', renderizarTabela);
+      document.getElementById('valorMin').addEventListener('input', renderizarTabela);
+      document.getElementById('valorMax').addEventListener('input', renderizarTabela);
+    }
+
+    function ordenarPorValor() {
+      crescente = !crescente;
+      renderizarTabela();
+    }
+
+    function abrirLightbox(imagens, index) {
+      imagensAtuais = imagens;
+      imagemIndex = index;
+      const lightbox = document.getElementById('lightbox');
+      atualizarLightbox();
+      lightbox.style.display = 'flex';
+    }
+
+    function atualizarLightbox() {
+      const img = document.getElementById('lightbox-img');
+      const atual = imagensAtuais[imagemIndex];
+      img.src = atual.src;
+      img.style.width = atual.w + 'px';
+      img.style.height = atual.h + 'px';
+    }
+
+    function navegarImagem(delta, event) {
+      if (event) event.stopPropagation();
+      imagemIndex = (imagemIndex + delta + imagensAtuais.length) % imagensAtuais.length;
+      atualizarLightbox();
+    }
+
+    function fecharLightbox() {
+      const lightbox = document.getElementById('lightbox');
+      const img = document.getElementById('lightbox-img');
+      img.src = '';
+      img.removeAttribute('style');
+      lightbox.style.display = 'none';
+    }
+
+    function renderizarTabela() {
+      const filtro = document.getElementById('tipoFiltro').value;
+      const buscaLote = document.getElementById('buscarLote').value;
+      const min = parseFloat(document.getElementById('valorMin').value);
+      const max = parseFloat(document.getElementById('valorMax').value);
+
+      let lotes = [...dados];
+
+      if (filtro) lotes = lotes.filter(l => l.tipo === filtro);
+      if (buscaLote) lotes = lotes.filter(l => String(l.loleNrSq).includes(buscaLote));
+      if (!isNaN(min)) lotes = lotes.filter(l => l.valorMinimo >= min);
+      if (!isNaN(max)) lotes = lotes.filter(l => l.valorMinimo <= max);
+
+      lotes.sort((a, b) => crescente ? a.valorMinimo - b.valorMinimo : b.valorMinimo - a.valorMinimo);
+
+      const tbody = document.getElementById('tabelaLotes');
+      tbody.innerHTML = '';
+
+      lotes.forEach(lote => {
+        const tr = document.createElement('tr');
+
+        const tdId = document.createElement('td');
+        tdId.textContent = lote.loleNrSq;
+
+        const tdTipo = document.createElement('td');
+        tdTipo.textContent = lote.tipo;
+
+        const tdValor = document.createElement('td');
+        tdValor.textContent = lote.valorMinimo.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+
+        const tdImgs = document.createElement('td');
+        (lote.imagens || []).slice(0, 6).forEach((img, index) => {
+          const imgEl = document.createElement('img');
+          imgEl.src = img.src;
+          imgEl.alt = "imagem";
+          imgEl.onclick = () => abrirLightbox(lote.imagens, index);
+          tdImgs.appendChild(imgEl);
+        });
+
+        const restante = (lote.imagens || []).length - 6;
+        if (restante > 0) {
+          const span = document.createElement('div');
+          span.className = 'extra-imgs';
+          span.textContent = `+${restante} foto(s)`;
+          tdImgs.appendChild(span);
+        }
+
+        tr.appendChild(tdId);
+        tr.appendChild(tdTipo);
+        tr.appendChild(tdValor);
+        tr.appendChild(tdImgs);
+        tbody.appendChild(tr);
+      });
+    }
+
+    carregarDados();
+  </script>
+</body>
+
+</html>
